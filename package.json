@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "Banco de dados simples para teste de backend durante as aulas",
     "main": "server.js",
-    "engines": {
-        "node": "18.x"
-    },
     "scripts": {
         "start": "node server.js"
     },
